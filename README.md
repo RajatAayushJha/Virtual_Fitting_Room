@@ -6,7 +6,7 @@ Demo : https://drive.google.com/file/d/1PXJFkb-dNqZaWAmx3GgAA1xgYt0LsgLY/view
 ## Required Software’s and Dependencies:
 
 1. Unity 3D.
-1. openCv DLLs
+2. openCv DLLs
 ## Description
 An Augmented Reality Virtual fitting room allows customers to virtually try on clothes and accessories items before buying it,
 made using Unity (C#) and OpenCV.
