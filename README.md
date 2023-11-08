@@ -1,7 +1,7 @@
 # Virtual_Fitting_Room
 
-# Report : https://drive.google.com/file/d/1dWKWZ_4AkLLFX5jjrNk6bEWGkGo1T8-9/view
-# Demo : https://drive.google.com/file/d/1PXJFkb-dNqZaWAmx3GgAA1xgYt0LsgLY/view
+Report : https://drive.google.com/file/d/1dWKWZ_4AkLLFX5jjrNk6bEWGkGo1T8-9/view
+Demo : https://drive.google.com/file/d/1PXJFkb-dNqZaWAmx3GgAA1xgYt0LsgLY/view
 
 ## Required Software’s and Dependencies:
 
